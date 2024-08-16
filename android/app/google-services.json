@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669650484005",
+    "project_id": "seguridadtrujillo-b3a7c",
+    "storage_bucket": "seguridadtrujillo-b3a7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669650484005:android:fad836eec36a5fbbce78cc",
+        "android_client_info": {
+          "package_name": "com.seguridadtrujillo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669650484005-3vh0vbspu4ahiovp94c7c44kpjo0fe8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38HKI89GL6lhDRdOSG329MDm6-pNeQBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669650484005-3vh0vbspu4ahiovp94c7c44kpjo0fe8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
